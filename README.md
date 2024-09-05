@@ -1,5 +1,10 @@
-# User-Account-Creation-via-PowerShell
+# User Account Creation via PowerShell
 
-Write a Powershell script to create a Windows user account that is a non-admin user. This assignment assumes that you already have a Windows VM, with the administrator account created..
+This repository provides PowerShell scripts for automating user account creation in Active Directory. It includes examples for setting user properties and group assignments.
 
-To complete the assignment, write the PowerShell script, run it on your VM, and submit the script here.
+### Features:
+- Automating user account creation.
+- PowerShell scripts for Active Directory management.
+
+This project helps users streamline the process of creating user accounts using PowerShell.
+
